@@ -1,0 +1,70 @@
+Tower,BaseCost,Tier1Name,Tier1Cost,Tier2Name,Tier2Cost,Tier3Name,Tier3Cost,Tier4Name,Tier4Cost,Tier5Name,Tier5Cost,ParagonName,ParagonCost
+,0,Sharp Shots,140,Razor Sharp Shots,220,Spike-O-Pult,300,Juggernaut,1800,Ultra-Juggernaut,15000,,0
+Dart Monkey,200,Quick Shots,100,Very Quick Shots,190,Triple Shot,400,Super Monkey Fan Club,8000,Plasma Monkey Fan Club,45000,Apex Plasma Master,150000
+,0,Long Range Darts,90,Enhanced Eyesight,200,Crossbow,625,Sharp Shooter,2000,Crossbow Master,21500,,0
+,0,Improved Rangs,200,Glaives,280,Glaive Ricochet,1200,M.O.A.R Glaives,3000,Glaive Lord,29400,,0
+Boomerang Monkey,325,Faster Throwing,175,Faster Rangs,250,Bionic Boomerang,1450,Turbo Charge,4200,Perma Charge,35000,Glaive Dominus,275000
+,0,Long Range Rangs,100,Red Hot Rangs,300,Kylie Boomerang,1300,MOAB Press,2400,MOAB Domination,50000,,0
+,0,Bigger Bombs,350,Heavy Bombs,650,Really Big Bombs,1200,Bloon Impact,3600,Bloon Crush,55000,,0
+Bomb Shooter,525,Faster Reload,250,Missile Launcher,400,MOAB Mauler,1100,MOAB Assassin,3200,MOAB Eliminator,25000,,0
+,0,Extra Range,200,Frag Bombs,300,Cluster Bombs,800,Recursive Cluster,2800,Bomb Blitz,35000,,0
+,0,Faster Shooting,150,Even Faster Shooting,300,Hot Shots,600,Ring of Fire,3500,Inferno Ring,45500,,0
+Tack Shooter,280,Long Range Tacks,100,Super Range Tacks,225,Blade Shooter,550,Blade Maelstrom,2700,Super Maelstrom,15000,,0
+,0,More Tacks,100,Even More Tacks,100,Tack Sprayer,450,Overdrive,3200,The Tack Zone,20000,,0
+,0,Permafrost,150,Cold Snap,350,Ice Shards,1500,Embrittlement,2200,Super Brittle,28000,,0
+Ice Monkey,500,Enhanced Freeze,225,Deep Freeze,450,Arctic Wind,2800,Snowstorm,3800,Absolute Zero,19200,,0
+,0,Larger Radius,175,Re-Freeze,225,Cryo Cannon,2250,Icicles,2750,Icicle Impale,30000,,0
+,0,Glue Soak,200,Corrosive Glue,300,Bloon Dissolver,2500,Bloon Liquefier,5000,The Bloon Solver,22000,,0
+Glue Gunner,225,Bigger Globs,100,Glue Splatter,1650,Glue Hose,2500,Glue Strike,3450,Glue Storm,15000,,0
+,0,Stickier Glue,280,Stronger Glue,400,MOAB Glue,3400,Relentless Glue,3000,Super Glue,28000,,0
+,0,Full Metal Jacket,350,Large Calibre,1500,Deadly Precision,3000,Maim MOAB,5400,Cripple MOAB,32000,,0
+Sniper Monkey,350,Night Vision Goggles,300,Shrapnel Shot,450,Bouncing Bullet,3200,Supply Drop,7200,Elite Sniper,14500,,0
+,0,Fast Firing,400,Even Faster Firing,400,Semi-Automatic,3000,Full Auto Rifle,4250,Elite Defender,14500,,0
+,0,Longer Range,130,Advanced Intel,500,Submerge and Support,500,Bloontonium Reactor,2500,Energizer,32000,,0
+Monkey Sub,325,Barbed Darts,450,Heat-tipped Darts,300,Ballistic Missile,1400,First Strike Capability,13000,Pre-Emptive Strike,29000,,0
+,0,Twin Guns,450,Airburst Darts,1000,Triple Guns,1100,Armor Piercing Darts,3000,Sub Commander,25000,,0
+,0,Faster Shooting,275,Double Shot,425,Destroyer,2950,Aircraft Carrier,7200,Carrier Flagship,25000,,0
+Monkey Buccaneer,500,Grape Shot,550,Hot Shot,500,Cannon Ship,900,Monkey Pirates,4900,Pirate Lord,26000,Navarch of the Seas,550000
+,0,Long Range,200,Crow's Nest,350,Merchantman,2300,Favored Trades,5500,Trade Empire,23000,,0
+,0,Rapid Fire,650,Lots More Darts,650,Fighter Plane,1000,Operation: Dart Storm,3000,Sky Shredder,41500,,0
+Monkey Ace,800,Exploding Pineapple,200,Spy Plane,350,Bomber Ace,900,Ground Zero,18000,Tsar Bomba,30000,Goliath Doomship,900000
+,0,Sharper Darts,500,Centered Path,300,Neva-Miss Targeting,2800,Spectre,23400,Flying Fortress,85000,,0
+,0,Quad Darts,800,Pursuit,500,Razor Rotors,1750,Apache Dartship,19600,Apache Prime,45000,,0
+Heli Pilot,1600,Bigger Jets,300,IFR,600,Downdraft,3500,Support Chinook,9500,Special Poperations,30000,,0
+,0,Faster Darts,250,Faster Firing,350,MOAB Shove,3000,Comanche Defense,8500,Comanche Commander,32000,,0
+,0,Bigger Blast,500,Bloon Buster,500,Shell Shock,900,The Big One,8000,The Biggest One,36000,,0
+Mortar Monkey,750,Faster Reload,300,Rapid Reload,500,Heavy Shells,900,Artillery Battery,5500,Pop and Awe,30000,,0
+,0,Increased Accuracy,200,Burny Stuff,500,Signal Flare,800,Shattering Shells,10900,Blooncineration,40000,,0
+,0,Focused Firing,300,Laser Shock,900,Laser Cannon,3750,Plasma Accelerator,11000,Ray of Doom,80000,,0
+Dartling Gunner,850,Advanced Targeting,250,Faster Barrel Spin,950,Hydra Rocket Pods,4800,Rocket Storm,5550,M.A.D,60000,,0
+,0,Faster Swivel,150,Powerful Darts,1200,Buckshot,3400,Bloon Area Denial System,12000,Bloon Exclusion Zone,58000,,0
+,0,Guided Magic,150,Arcane Blast,450,Arcane Mastery,1300,Arcane Spike,10000,Archmage,32000,,0
+Wizard Monkey,375,Fireball,300,Wall of Fire,800,Dragon's Breath,3300,Summon Phoenix,7500,Wizard Lord Phoenix,50000,Magus Perfectus,750000
+,0,Intense Magic,300,Monkey Sense,300,Shimmer,1500,Necromancer: Unpopped Army,2800,Prince of Darkness,26500,,0
+,0,Laser Blasts,2500,Plasma Blasts,3000,Sun Avatar,20000,Sun Temple,100000,True Sun God,500000,,0
+Super Monkey,2500,Super Range,1000,Epic Range,1400,Robo Monkey,7000,Tech Terror,19000,The Anti-Bloon,90000,,0
+,0,Knockback,3000,Ultravision,1200,Dark Knight,5600,Dark Champion,55555,Legend of the Night,200000,,0
+,0,Ninja Discipline,300,Sharp Shurikens,350,Double Shot,850,Bloonjitsu,2750,Grandmaster Ninja,35000,,0
+Ninja Monkey,500,Distraction,350,Counter-Espionage,500,Shinobi Tactics,900,Bloon Sabotage,5200,Grand Saboteur,22000,Ascended Shadow,500000
+,0,Seeking Shuriken,250,Caltrops,400,Flash Bomb,2250,Sticky Bomb,5000,Master Bomber,40000,,0
+,0,Larger Potions,250,Acidic Mixture Dip,350,Berserker Brew,1250,Stronger Stimulant,3000,Permanent Brew,60000,,0
+Alchemist,550,Stronger Acid,250,Perishing Potions,475,Unstable Concoction,3000,Transforming Tonic,4500,Total Transformation,45000,,0
+,0,Faster Throwing,650,Acid Pool,450,Lead to Gold,1000,Rubber to Gold,2750,Bloon Master Alchemist,40000,,0
+,0,Hard Thorns,250,Heart of Thunder,1000,Druid of the Storm,1650,Ball Lightning,4500,Superstorm,60000,,0
+Druid,400,Thorn Swarm,250,Heart of Oak,350,Druid of the Jungle,1050,Jungle's Bounty,4900,Spirit of the Forest,35000,,0
+,0,Druidic Reach,100,Heart of Vengeance,300,Druid of Wrath,600,Poplust,2500,Avatar of Wrath,45000,,0
+,0,Increased Production,500,Greater Production,600,Banana Plantation,3000,Banana Research Facility,19000,Banana Central,100000,,0
+Banana Farm,1250,Long Life Bananas,300,Valuable Bananas,800,Monkey Bank,3800,IMF Loan,7500,Monkey-Nomics,100000,,0
+,0,EZ Collect,250,Banana Salvage,200,Marketplace,2900,Central Market,15000,Monkey Wall Street,60000,,0
+,0,Bigger Stacks,800,White Hot Spikes,600,Spiked Balls,2300,Spiked Mines,9500,Super Mines,125000,,0
+Spike Factory,1000,Faster Production,600,Even Faster Production,800,MOAB SHREDR,2500,Spike Storm,5000,Carpet of Spikes,40000,,0
+,0,Long Reach,150,Smart Spikes,400,Long Life Spikes,1400,Deadly Spikes,3500,Permaspike,30000,,0
+,0,Bigger Radius,400,Jungle Drums,1500,Primary Training,800,Primary Mentoring,2500,Primary Expertise,25000,,0
+Monkey Village,1200,Grow Blocker,250,Radar Scanner,2000,Monkey Intelligence Bureau,7500,Call to Arms,20000,Homeland Defense,40000,,0
+,0,Monkey Business,500,Monkey Commerce,500,Monkey Town,10000,Monkey City,3000,Monkeyopolis,0,,0
+,0,Sentry Gun,500,Faster Engineering,400,Sprockets,575,Sentry Expert,2500,Sentry Champion,32000,,0
+Engineer Monkey,400,Larger Service Area,250,Deconstruction,350,Cleansing Foam,850,Overclock,13500,Ultraboost,72000,Master Builder,650000
+,0,Oversize Nails,450,Pin,220,Double Gun,500,Bloon Trap,3500,XXXL Trap,48000,,0
+,0,Piranha,160,Barracuda,875,Great White,2950,Orca,12500,Megalodon,45000,,0
+Beast Handler,250,Microraptor,195,Adasaurus,945,Velociraptor,2600,Tyrannosaurus Rex,9500,Giganotosaurus,70000,,0
+,0,Gyrfalcon,180,Horned Owl,915,Golden Eagle,3000,Giant Condor,8000,Pou?kai,30000,,0
